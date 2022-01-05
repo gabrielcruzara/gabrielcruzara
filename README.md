@@ -1,4 +1,4 @@
-## Olá, me chamo Gabriel Cruzara e sou Desenvolvedor .NET
+## Olá, me chamo Gabriel Cruzara e sou Desenvolvedor .NET :smile:
 
 
 <a href="https://www.linkedin.com/in/gabriel-cruzara/" alt="Linkedin" target="_blank">
