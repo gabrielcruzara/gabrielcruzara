@@ -1,6 +1,7 @@
 ## Olá, me chamo Gabriel Cruzara e sou Desenvolvedor .NET :smile:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielcruzara&show_icons=true&theme=material-palenight&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcruzara&layout=compact)](https://github.com/gabrielcruzara/github-readme-stats)
 
 
 <a href="https://www.linkedin.com/in/gabriel-cruzara/" alt="Linkedin" target="_blank">
