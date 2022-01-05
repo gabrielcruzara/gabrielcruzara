@@ -1,6 +1,5 @@
 ## Olá, me chamo Gabriel Cruzara e sou Desenvolvedor .NET :smile:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielcruzara)](https://github.com/gabrielcruzara/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielcruzara&show_icons=true&theme=material-palenight&count_private=true)
 
 
